@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuan Wang's Homepage / Site Title"
+title                    : "Chuan Wang's Homepage "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chuan Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. & Young Associate Professor"
+  bio              : "Ph.D. // Young Associate Professor"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
