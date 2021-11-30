@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Fundations"
+    url: /fun/
     
   - title: "Members"
     url: /markdown/
