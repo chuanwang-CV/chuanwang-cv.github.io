@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chuan Wang's Homepage / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chuan Wang"
   avatar           : "profile.png"
-  bio              : "I am a young associate professor at the Institute of Information Engineering, the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include collaborative learning, scene understanding, and computer vision. "
-  location         : "Location"
+  bio              : "Ph.D. & Young Associate Professor"
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
