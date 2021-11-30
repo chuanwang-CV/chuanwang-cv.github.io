@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am a young associate professor at the Institute of Information Engineering, the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include collaborative learning, scene understanding, and computer vision. "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
