@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Chuan Wang (王川) "
-excerpt: ""
+excerpt: "Chuan Wang (王川)"
 author_profile: true
 redirect_from: 
   - /about/
