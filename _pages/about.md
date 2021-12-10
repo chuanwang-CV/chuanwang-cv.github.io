@@ -20,12 +20,12 @@ Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 News
 ------
-<table><tr><td bgcolor=SkyBlue>
+<!----><table><tr><td bgcolor=SkyBlue>
 - One paper was accepted by AAAI 2022
 - One paper was accepted by NeurIPS 2022
-</td></tr></table>
+<!----></td></tr></table>
 
-Selected Papers
+Selected Works
 ------
 1.	**Chuan Wang**, Huazhu Fu, Liang Yang, Xiaochun Cao. Text Co-Detection in Multi-View Scene. IEEE Transactions on Image Processing, 2020 (CCF-A类期刊)
 2.	**Chuan Wang**, Hua Zhang, Liang Yang, Xiaochun Cao, Hongkai Xiong. Multiple Semantic Matching on Augmented N-Partite Graph for Object Co-Segmentation. IEEE Transactions on Image Processing, 2017 (CCF-A类期刊)
