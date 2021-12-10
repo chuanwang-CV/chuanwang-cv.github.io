@@ -24,11 +24,8 @@ News
 - One paper was accepted by AAAI 2022
 - One paper was accepted by NeurIPS 2022
 
-
-
 Selected Papers
-======
-
+------
 1.	**Chuan Wang**, Huazhu Fu, Liang Yang, Xiaochun Cao. Text Co-Detection in Multi-View Scene. IEEE Transactions on Image Processing, 2020 (CCF-A类期刊)
 2.	**Chuan Wang**, Hua Zhang, Liang Yang, Xiaochun Cao, Hongkai Xiong. Multiple Semantic Matching on Augmented N-Partite Graph for Object Co-Segmentation. IEEE Transactions on Image Processing, 2017 (CCF-A类期刊)
 3.	**Chuan Wang**, Hua Zhang, Liang Yang ,Si Liu, Xiaochun Cao. Deep People Counting in Extremely Dense Crowds. ACM Multimedia, 2015（CCF-A类会议）
