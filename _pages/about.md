@@ -14,7 +14,9 @@ Email: wangchuan AT iie DOT ac DOT cn
 
 Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
-**<font color=red>NEW</font>** <font color=MediumBlue>**如有意获得2022年9月入学的硕士研究生资格，欢迎2022年3月起通过邮件与我联系并提供以下信息：1）个人简历，2）英语六级成绩，3）专业相关实践经验；包括数学、编程等。如自学过机器学习、计算机视觉书籍或在线课程，阅读过相关英文论文则更好，请一并附上情况介绍。欢迎加入中科院信工所智能安全一组团队！**</font>
+**<font color=red>NEW</font> <font color=MediumBlue>如有意获得2022年9月入学的硕士研究生资格，欢迎2022年3月起通过邮件与我联系并提供以下信息：1）个人简历，2）英语六级成绩，3）专业相关实践经验；包括数学、编程等。如自学过机器学习、计算机视觉书籍或在线课程，阅读过相关英文论文则更好，请一并附上情况介绍。欢迎加入中科院信工所智能安全一组团队！**</font>
+
+**<font color=red>NEW</font>** <font color=MediumBlue>**团队长期开放实习生申请，包括本科生、硕士生、博士生，欢迎感兴趣的同学与我联系。**</font>
 
 News
 ------
@@ -23,7 +25,7 @@ News
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Services
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
