@@ -20,8 +20,9 @@ Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 News
 ------
+<table><tr><td bgcolor=yellow>
 - One paper was accepted by AAAI 2022
-- One paper was accepted by NeurIPS 2022
+- One paper was accepted by NeurIPS 2022</td></tr></table>
 
 Selected Papers
 ------
@@ -35,7 +36,7 @@ Selected Papers
 Service and Activities
 ------
 **Program Committee Member**
-- CVPR / ICCV / AAAI / IJCAI / NeurIPS /......
+  - CVPR / ICCV / AAAI / IJCAI / NeurIPS /......
 
 **Reviewers**
 - TIP / TMM / TCSVT......
