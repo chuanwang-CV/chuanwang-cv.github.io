@@ -21,24 +21,5 @@ Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 News
 ------
-- One paper was accepted by AAAI 2022
-- One paper was accepted by NeurIPS 2022
-
-Selected Papers
-------
-1.	**Chuan Wang**, Huazhu Fu, Liang Yang, Xiaochun Cao. Text Co-Detection in Multi-View Scene. IEEE Transactions on Image Processing, 2020 (CCF-A类期刊)
-2.	**Chuan Wang**, Hua Zhang, Liang Yang, Xiaochun Cao, Hongkai Xiong. Multiple Semantic Matching on Augmented N-Partite Graph for Object Co-Segmentation. IEEE Transactions on Image Processing, 2017 (CCF-A类期刊)
-3.	**Chuan Wang**, Hua Zhang, Liang Yang ,Si Liu, Xiaochun Cao. Deep People Counting in Extremely Dense Crowds. ACM Multimedia, 2015（CCF-A类会议）
-4.	Liang Yang, Cheng Chen, Weixun Li, Bingxin Niu, Junhua Gu, **Chuan Wang (通讯作者)**, Dongxiao He, Yuanfang Guo, Xiaochun Cao. Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing. AAAI 2022（CCF-A类会议)
-5.	Liang Yang, **Chuan Wang (通讯作者)**, Junhua Gu, Xiaochun Cao, Bingxin Niu. Why Do Attributes Propagate in Graph Convolutional Neural Networks? AAAI 2021（CCF-A类会议)
-
-
-Service and Activities
-------
-**Program Committee Member**
-- CVPR / ICCV / AAAI / IJCAI / NeurIPS /......
-
-**Reviewers**
-- TIP / TMM / TCSVT......
 
 
