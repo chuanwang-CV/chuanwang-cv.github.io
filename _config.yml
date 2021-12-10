@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chuan Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. \n Young Associate Professor"
+  bio              : "Ph.D. \n\ Young Associate Professor"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
