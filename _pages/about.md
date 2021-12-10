@@ -14,7 +14,7 @@ Email: wangchuan AT iie DOT ac DOT cn
 
 Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
-<font color=red>NEW</font>
+**<font color=red>NEW</font>**
 
 News
 ------
