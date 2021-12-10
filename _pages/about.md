@@ -11,6 +11,7 @@ redirect_from:
 I am a young associate professor at the Institute of Information Engineering, the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include collaborative learning, scene understanding, and computer vision.
 
 Email: wangchuan AT iie DOT ac DOT cn
+
 Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 <font color=red>NEW</font>
