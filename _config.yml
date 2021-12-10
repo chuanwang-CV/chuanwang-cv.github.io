@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chuan Wang"
-  avatar           : "profile.png"
-  bio              : "Ph.D. \n\ Young Associate Professor"
-  location         : "Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China"
+  name             : #"Chuan Wang"
+  avatar           : #"profile.png"
+  bio              : #"Ph.D. \n\ Young Associate Professor"
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TJ35fY4AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=TJ35fY4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  email             : "wangchuan AT iie DOT ac DOT cn"
 
 
 # Reading Files
