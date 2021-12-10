@@ -14,7 +14,7 @@ Email: wangchuan AT iie DOT ac DOT cn
 
 Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
-**<font color=red>NEW</font>** <font color=MediumBlue>如有意获得2022年9月入学的硕士研究生资格，欢迎2022年3月起通过邮件与我联系并提供以下信息：1）个人简历，2）英语六级成绩，3）专业相关实践经验；包括数学、编程等。如自学过机器学习、计算机视觉书籍或在线课程，阅读过相关英文论文则更好，请一并附上情况介绍。</font>
+**<font color=red>NEW</font>** <font color=MediumBlue>**如有意获得2022年9月入学的硕士研究生资格，欢迎2022年3月起通过邮件与我联系并提供以下信息：1）个人简历，2）英语六级成绩，3）专业相关实践经验；包括数学、编程等。如自学过机器学习、计算机视觉书籍或在线课程，阅读过相关英文论文则更好，请一并附上情况介绍。欢迎加入中科院信工所智能安全一组团队！**</font>
 
 News
 ------
