@@ -83,7 +83,7 @@ author:
   name             : #"Chuan Wang
   Ph.D. & Young Associate Professor"
   avatar           : "profile.png"
-  bio              : "I am a young associate professor at the Institute of Information Engineering, the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include collaborative learning, scene understanding, and computer vision."
+  bio              : #"I am a young associate professor at the Institute of Information Engineering, the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include collaborative learning, scene understanding, and computer vision."
   location         : 
   employer         :
   pubmed           : 
