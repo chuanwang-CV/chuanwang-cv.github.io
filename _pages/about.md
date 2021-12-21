@@ -20,12 +20,9 @@ Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 News
 ------
-<!DOCTYPE html>
-<html>
+
   
 <head>
-<title>jQuery Easy Ticker plugin - Demo</title>
-
 
 <link rel="shortcut icon" href="/resources/images/theme/favicon.png">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -132,26 +129,10 @@ $(function(){
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-<script type="text/javascript" src="/resources/msite/js/script.js"></script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-15728484-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
 </body>
-</html>
 
-<body>
-  <div id="p1"></div>
-  <script>
-    $("#p1").load("rollingbar.html");
-  </script>
-</body>
+
+
     
     
 <table><tr><td bgcolor=SkyBlue>
