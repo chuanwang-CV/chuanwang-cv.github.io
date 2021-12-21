@@ -20,12 +20,13 @@ Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 News
 ------
-    <div class="demo3">
-        <ul>
-            <li>- One paper was accepted by AAAI 2022</li>
-            <li>- One paper was accepted by NeurIPS 2022</li>
-        </ul>
-    </div>
+<body>
+  <div id="p1"></div>
+  <script>
+    $("#p1").load("rollingbar.html");
+  </script>
+</body>
+    
     
 <table><tr><td bgcolor=SkyBlue>
 - One paper was accepted by AAAI 2022
