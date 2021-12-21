@@ -22,8 +22,9 @@ News
 ------
 <table><tr><td bgcolor=SkyBlue>
 - One paper was accepted by AAAI 2022
-- One paper was accepted by NeurIPS 2022
-</td></tr></table>
+</td></tr><tr><td bgcolor=SkyBlue>
+- One paper was accepted by NeurIPS 2022</td></tr>
+</table>
 
 Selected Works
 ------
