@@ -20,6 +20,132 @@ Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 News
 ------
+<!DOCTYPE html>
+<html>
+  
+<head>
+<title>jQuery Easy Ticker plugin - Demo</title>
+
+
+<link rel="shortcut icon" href="/resources/images/theme/favicon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<link href="/resources/msite/css/style.css" rel="stylesheet">
+<meta name="theme-color" content="#b73a78"/>
+    
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/vaakash/jquery-easy-ticker@ea9d510/dist/jquery.easy-ticker.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+</head>
+  
+<body>
+
+
+
+
+<div class="container">
+    
+
+    
+    <!------------------------------- DEMO 3 --------------------------->
+    
+    <div class="demo3">
+        <ul>
+            <li>what's causing the layout to break? Attempting to make a horizontal layout website ?</li>
+            <li>WordPress Mobify mobile theme, CSS</li>
+            <li>Gridview with Table.Rows.Count ==0 to show Footer row that include checkbox with imageurl cast</li>
+            <li>JS/jQuery - animated random name picker</li>
+        </ul>
+    </div>
+    
+    <p align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9237823406021897" data-ad-slot="2114990441" data-ad-format="auto"></ins>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+        </p>    
+
+
+<style>
+
+
+
+.demo3 {
+    font-family: Arial, sans-serif;
+    border: 1px solid #C20;
+    margin: 50px 0;
+    font-style: italic;
+    position: relative;
+    padding: 0 0 0 80px;
+    box-shadow: 0 2px 5px -3px #000;
+    border-radius: 3px;
+}
+.demo3:before {
+    content: "Latest News";
+    display: inline-block;
+    font-style: normal;
+    background: #C20;
+    padding: 10px;
+    color: #FFF;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.demo3:after {
+    content: '';
+    display: block;
+    top: 0;
+    left: 80px;
+    background: linear-gradient(#FFF, rgba(255, 255, 255, 0));
+    height: 20px;
+}
+.demo3 ul li {
+    list-style: none;
+    padding: 10px 0;
+}
+
+
+.et-run{
+    background-color: #0cf;
+    color: white;
+    border: 1px solid black;
+}
+</style>
+
+<script>
+$(function(){    
+    $('.demo3').easyTicker({
+        visible: 1,
+        interval: 4000
+    });
+});
+</script>
+    
+</div><!-- container -->
+
+
+<footer class="navbar navbar-light bg-light">
+    <div class="container"><div class="navbar-text text-dark">&copy; <a href="/" title="Back to Aakash Web" class="navbar-link">Aakash Web</a> 2021</div></div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="/resources/msite/js/script.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-15728484-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>
+
 <body>
   <div id="p1"></div>
   <script>
