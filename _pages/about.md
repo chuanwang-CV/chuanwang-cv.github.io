@@ -22,7 +22,7 @@ Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 ------
 
   
-<iframe src="rollingbar.html" width="100%" height="50" frameborder="0"></iframe>
+<iframe src="/rollingbar.html" width="100%" height="50" frameborder="0"></iframe>
 
     
     
