@@ -2,8 +2,7 @@
 title: "Deep People Counting in Extremely Dense Crowds"
 collection: publications
 permalink: /publication/acmmm15
-excerpt: " Our method has following characteristics. Firstly, it is a deep model built on CNN to automatically learn e↵ective features for counting. Besides, to weaken influence of background like buildings and trees, we purposely enrich the training data with expanded negative samples whose ground truth counting is
-set as zero. With these negative samples, the robustness can be enhanced. <br/> <img src='/images/crowdcounting.png' width='200' height = '200' align=center>"
+excerpt: " Our method has following characteristics. Firstly, it is a deep model built on CNN to automatically learn e↵ective features for counting. Besides, to weaken influence of background like buildings and trees, we purposely enrich the training data with expanded negative samples whose ground truth counting is set as zero. With these negative samples, the robustness can be enhanced. <br/> <img src='/images/crowdcounting.png' width='400' height = '400' align=center>"
 date: 2015-11-06
 venue: 'ACM MultiMedia'
 #paperurl: 'http://academicpages.github.io/files/ACMMM15.pdf'
