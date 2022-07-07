@@ -2,7 +2,7 @@
 title: "PMP-NET: RETHINKING VISUAL CONTEXT FOR SCENE GRAPH GENERATION"
 collection: publications
 permalink: /publication/PMP-NET
-#excerpt: "Famework illustration. <br/><img src='/images/pmp-framewok.png'>"
+excerpt: '<br/><img src='/images/pmp-framewok.png'>'
 date: 2022-05-27
 venue: 'ICASSP'
 #paperurl: 'http://academicpages.github.io/files/PMP-NET_Rethinking_Visual_Context_for_Scene_Graph_Generation.pdf'
