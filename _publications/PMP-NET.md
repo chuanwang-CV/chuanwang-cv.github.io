@@ -5,11 +5,11 @@ permalink: /publication/PMP-NET
 excerpt: 'Scene graph generation aims to describe the contents in scenes by identifying the objects and their relationships. In previous works, visual context is widely utilized in message passing networks to generate the representations for classification. However, the noisy estimation of visual context limits model performance. In this paper, we revisit the visual context propagation in SGG and propose a Progressive Message Passing Network to estimate context in the coarse-to-fine manner.'
 date: 2022-05-27
 venue: 'ICASSP 2022'
-paperurl: 'http://academicpages.github.io/files/PMP-NET_Rethinking_Visual_Context_for_Scene_Graph_Generation.pdf'
-citation: '- Xuezhi Tong, Rui Wang, Chuan Wang, Sanyi Zhang, Xiaochun Cao. PMP-NET: Rethinking Visual Context for Scene Graph Generation. ICASSP 2022: 1940-1944.'
+#paperurl: 'http://academicpages.github.io/files/PMP-NET_Rethinking_Visual_Context_for_Scene_Graph_Generation.pdf'
+#citation: '- Xuezhi Tong, Rui Wang, Chuan Wang, Sanyi Zhang, Xiaochun Cao. PMP-NET: Rethinking Visual Context for Scene Graph Generation. ICASSP 2022: 1940-1944.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/PMP-NET_Rethinking_Visual_Context_for_Scene_Graph_Generation.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Xuezhi Tong, Rui Wang, Chuan Wang, Sanyi Zhang, Xiaochun Cao. PMP-NET: Rethinking Visual Context for Scene Graph Generation. ICASSP 2022: 1940-1944.
