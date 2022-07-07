@@ -1,6 +1,6 @@
 ---
 title: "Multiple Semantic Matching on Augmented N-Partite Graph for Object Co-Segmentation"
-collection: IEEE Transactions on Image Processing
+collection: publications
 permalink: /publication/TIP2017
 excerpt: 'Recent methods for object co-segmentation focus on discovering single co-occurring relation of candidate regions representing the foreground of multiple images. However, region extraction based only on low and middle level information often occupies a large area of background without the help of semantic
 context. In addition, seeking single matching solution very likely leads to discover local parts of common objects. To cope with these deficiencies, we present a new object co-segmentation framework, which takes advantages of semantic information and globally explores multiple co-occurring matching cliques based on an N-partite graph structure. To this end, we first propose to incorporate candidate generation with semantic context. Based on the regions extracted from semantic segmentation of
