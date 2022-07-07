@@ -2,7 +2,7 @@
 title: "PMP-NET: RETHINKING VISUAL CONTEXT FOR SCENE GRAPH GENERATION"
 collection: publications
 permalink: /publication/PMP-NET
-excerpt: "In this project, we revisit the visual context propagation in SGG and propose a Progressive Message Passing Network to estimate context in the coarse-to-fine manner.<br/><img src='/images/SGG.png'>"
+excerpt: "In this project, we revisit the visual context propagation in SGG and propose a Progressive Message Passing Network to estimate context in the coarse-to-fine manner.<br/><img src='/images/SGG.png' style="zoom: 67%>"
 date: 2022-05-27
 venue: 'ICASSP'
 #paperurl: 'http://academicpages.github.io/files/PMP-NET_Rethinking_Visual_Context_for_Scene_Graph_Generation.pdf'
