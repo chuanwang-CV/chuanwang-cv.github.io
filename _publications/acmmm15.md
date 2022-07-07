@@ -6,7 +6,7 @@ excerpt: " Our method has following characteristics. Firstly, it is a deep model
 date: 2015-11-06
 venue: 'ACM MultiMedia'
 #paperurl: 'http://academicpages.github.io/files/ACMMM15.pdf'
-citation: 'Chuan Wang, Hua Zhang, Liang Yang, Si Liu, Xiaochun Cao. Deep People Counting in Extremely Dense Crowds. ACM Multimedia 2015: 1299-1302'
+#citation: 'Chuan Wang, Hua Zhang, Liang Yang, Si Liu, Xiaochun Cao. Deep People Counting in Extremely Dense Crowds. ACM Multimedia 2015: 1299-1302'
 ---
 People counting in extremely dense crowds is an important step for video surveillance and anomaly warning. The problem becomes especially more challenging due to the lack
 of training samples, severe occlusions, cluttered scenes and variation of perspective. Existing methods either resort to auxiliary human and face detectors or surrogate by estimating the density of crowds. Most of them rely on hand-crafted
@@ -16,4 +16,4 @@ features, such as SIFT, HOG etc, and thus are prone to fail when density grows o
 
 [Download paper here](http://academicpages.github.io/files/ACMMM15.pdf)
 
-#Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Chuan Wang, Hua Zhang, Liang Yang, Si Liu, Xiaochun Cao. Deep People Counting in Extremely Dense Crowds. ACM Multimedia 2015: 1299-1302.
