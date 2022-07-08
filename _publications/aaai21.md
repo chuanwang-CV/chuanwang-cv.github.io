@@ -2,7 +2,7 @@
 title: "Why Do Attributes Propagate in Graph Convolutional Neural Networks?"
 collection: publications
 permalink: /publication/aaai21
-excerpt: "In this paper, we aim at providing a novel explanation to the question of “Why do attributes propagate in GCNNs?”, which not only gives the essence of the oversmoothing, but also illustrates why the GCN extensions, including multiscale GCN and GCN with initial residual, can improve the performance. T<img src='/images/aaai22result.png' width='800' height='300' align=center>"
+excerpt: "In this paper, we aim at providing a novel explanation to the question of “Why do attributes propagate in GCNNs?”, which not only gives the essence of the oversmoothing, but also illustrates why the GCN extensions, including multiscale GCN and GCN with initial residual, can improve the performance. "
 date: 2021-2-01
 venue: 'AAAI'
 #paperurl: 'http://academicpages.github.io/files/TIP2017.pdf'
