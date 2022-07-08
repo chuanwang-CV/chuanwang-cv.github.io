@@ -2,7 +2,7 @@
 title: "Deep People Counting in Extremely Dense Crowds"
 collection: publications
 permalink: /publication/acmmm15
-excerpt: "  This project provides the first deep crowd counting work with negative sampling, and presents a new dataset with large counting range. <br/> <img src='/images/counting1.png' width='800' height = '300' align=center>"
+excerpt: "  This project provides the first deep crowd counting work with negative sampling, and presents a new dataset with large counting range. <br/> <img src='/images/counting1.png' width='800' height = '250' align=center>"
 date: 2015-11-06
 venue: 'ACM MultiMedia'
 #paperurl: 'http://academicpages.github.io/files/ACMMM15.pdf'
