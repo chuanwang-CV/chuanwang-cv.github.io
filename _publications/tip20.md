@@ -21,4 +21,5 @@ co-detection dataset consisting of multi-view image groups obtained from the sam
 
 
 [Download paper here](http://academicpages.github.io/files/tip20.pdf)
+
 Recommended citation: Chuan Wang, Huazhu Fu, Liang Yang, Xiaochun Cao: Text Co-Detection in Multi-View Scene. IEEE Trans. Image Process. 29: 4627-4642 (2020).
