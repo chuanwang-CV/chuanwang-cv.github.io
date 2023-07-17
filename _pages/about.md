@@ -11,7 +11,7 @@ redirect_from:
 I am a young associate professor at the State Key Laboratory of Information Security, the Institute of Information Engineering, the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include scene understanding, 2D/3D Scene Graph Generation, and AI Security.
 
 Email: wangchuan AT iie DOT ac DOT cn <br>
-Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
+Office: shucun Road, 1E-322, Haidian Dist., Beijing, China
 
 ------
 **<font color=red>NEW</font> <font color=MediumBlue>现接受 2024 级硕士生报考申请，欢迎非常欢迎有报送资格、代码能力较为优秀、对视觉内容分析、多模态感兴趣的同学垂询交流！欢迎加入中科院信工所智能安全一组团队！</font>**
