@@ -14,7 +14,7 @@ Email: wangchuan AT iie DOT ac DOT cn <br>
 Office: Xingshikou Road, 80#,C-3-3-305, Haidian Dist., Beijing, China
 
 ------
-**<font color=red>NEW</font> <font color=MediumBlue>现接受 2024 级硕士生报考申请，欢迎加入中科院信工所智能安全一组团队！</font>**
+**<font color=red>NEW</font> <font color=MediumBlue>现接受 2024 级硕士生报考申请，欢迎非常欢迎有报送资格、代码能力较为优秀、对视觉内容分析、多模态感兴趣的同学垂询交流！欢迎加入中科院信工所智能安全一组团队！</font>**
 
 **<font color=red>NEW</font> <font color=MediumBlue>团队长期开放实习生申请，欢迎感兴趣的同学通过邮件与我联系，邮件包括但不限于：1）个人简历，2）英语六级成绩，3）专业相关实践经验；包括数学、编程等。如自学过机器学习、深度学习书籍或在线课程，阅读过相关英文论文，请一并附上情况介绍。欢迎加入中科院信工所智能安全一组团队！</font>**
 
