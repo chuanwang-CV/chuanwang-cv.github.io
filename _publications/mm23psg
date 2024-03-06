@@ -1,13 +1,13 @@
 ---
 
-title: "Focusing on Flexible Masks: A Novel Framework for Panoptic Scene Graph Generation with Relation Constraints"
+title: "Focusing on Flexible Masks: A Novel Framework for Panoptic Scene Graph Generation with Relation Constraints[[PDF]](http://chuanwang-cv.github.io/files/mm2023.pdf)"
 collection: publications
 permalink: /publication/MM23
 excerpt: "Panoptic Scene Graph Generation (PSG) presents pixel-wise instance detection and localization, leading to comprehensive and precise scene graphs. To alleviate insufficient training caused by incomplete segmentation and proposal extraction, we construct a novel twostage framework for the PSG problem. In the training phase, we design a proposal matching strategy, which replaces deterministic segmentation results with proposals extracted from the off-theshelf panoptic head for label alignment, thereby ensuring the allmatching of training samples. In the inference phase, we present an innovative concept of employing relation predictions to constrain segmentation and design a relation-constrained segmentation algorithm. The algorithm recovers more valid instances and predicts more complete scene graphs by reconstructing the process of generating segmentation results from proposals using predicted relation results.<br/><img src='/images/mm23framework.png' width='800' height='200' align=center>"
 date: 2023-10-28
 venue: 'ACM MM'
 
-[PDF](http://chuanwang-cv.github.io/files/mm2023.pdf)
+
 paperurl: 'http://chuanwang-cv.github.io/files/mm2023.pdf'
 ---
 
