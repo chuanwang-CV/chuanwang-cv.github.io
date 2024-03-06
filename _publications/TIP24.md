@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Feature Learning for Unbiased Scene Graph Generation" [PDF]{http://chuanwang-cv.github.io/files/tip2024.pdf}
+title: "Adaptive Feature Learning for Unbiased Scene Graph Generation" [PDF](http://chuanwang-cv.github.io/files/tip2024.pdf)
 collection: publications
 permalink: /publication/TIP24
 excerpt: "In this project, we provide an effective and general solution, termed AMP-BiC, from the view of feature learning for complex scene graph understanding. AMP-BiC simultaneously achieves both
