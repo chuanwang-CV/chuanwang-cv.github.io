@@ -39,7 +39,7 @@ Office: shucun Road, 1E-322, Haidian Dist., Beijing, China
 
 Selected Works
 ------
-- Jiarui Yang, **Chuan Wang(通讯作者)**, Liang Yang, Yuchen Jiang, Angelia Cao, Adaptive Feature Learning for Unbiased Scene Graph Generation, IEEE Transactions on Image Processing, 2020 (CCF-A类期刊)
+- Jiarui Yang, **Chuan Wang(通讯作者)**, Liang Yang, Yuchen Jiang, Angelia Cao, Adaptive Feature Learning for Unbiased Scene Graph Generation, IEEE Transactions on Image Processing, 2024 (CCF-A类期刊)
 - Jiaming Zhuo, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, **Chuan Wang(通讯作者)**, Zhen Wang, Xiaochun Cao, Liang Yang, Improving Graph Contrastive Learning via Adaptive Positive Sampling, CVPR 2024 (CCF-A类会议）
 -	Jiarui Yang, **Chuan Wang(通讯作者)**, Zeming Liu, Jiahong Wu, Dongsheng Wang, Liang Yang, Xiaochun Cao, Focusing on Flexible Masks: A Novel Framework for Panoptic Scene Graph Generation with Relation Constraints, ACM MultiMedia, 2023. (CCF - A类会议)
 -	Yukun Zhang, **Chuan Wang(通讯作者)**, Sanyi Zhang, Xiaochun Cao, A Database for Multi-Modal Short Video Quality Assessment, IEEE ICASSP, 2023. (CCF - B类会议，Oral)
