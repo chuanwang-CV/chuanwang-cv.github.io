@@ -39,25 +39,28 @@ Office: shucun Road, 1E-322, Haidian Dist., Beijing, China
 
 Selected Works
 ------
-1.	**Chuan Wang**, Huazhu Fu, Liang Yang, Xiaochun Cao. Text Co-Detection in Multi-View Scene. IEEE Transactions on Image Processing, 2020 (CCF-A类期刊)
-2.	**Chuan Wang**, Hua Zhang, Liang Yang, Xiaochun Cao, Hongkai Xiong. Multiple Semantic Matching on Augmented N-Partite Graph for Object Co-Segmentation. IEEE Transactions on Image Processing, 2017 (CCF-A类期刊)
-3.	**Chuan Wang**, Hua Zhang, Liang Yang ,Si Liu, Xiaochun Cao. Deep People Counting in Extremely Dense Crowds. ACM Multimedia, 2015（CCF-A类会议）
-4.	Jiarui Yang, **Chuan Wang(通讯作者)**, Zeming Liu, Jiahong Wu, Dongsheng Wang, Liang Yang, Xiaochun Cao, Focusing on Flexible Masks: A Novel Framework for Panoptic Scene Graph Generation with Relation Constraints, ACM MultiMedia, 2023. (CCF - A类会议)
-5.	Yukun Zhang, **Chuan Wang(通讯作者)**, Sanyi Zhang, Xiaochun Cao, A Database for Multi-Modal Short Video Quality Assessment, IEEE ICASSP, 2023. (CCF - B类会议，Oral)
-6.	Yuhan Chen, Yihong Luo, Jing Tang, Liang Yang, Siya Qiu, **Chuan Wang(通讯作者)**, Xiaochun Cao: LSGNN, “Towards General Graph Neural Network in Node Classification by Local Similarity”, IJCAI, 2023. (CCF - A类会议) (CCF - A类会议)
-7.	Jiaming Zhuo, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, **Chuan Wang(通讯作者)**, Xiaochun Cao, Liang Yang, “Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs”, ACM Multimedia, 2023. (CCF - A类会议)
-8.	Liang Yang, Cheng Chen, Weixun Li, Bingxin Niu, Junhua Gu, **Chuan Wang(通讯作者)**, Dongxiao He, Yuanfang Guo, Xiaochun Cao, “Self-Supervised Graph Neural Networks via Diverse and Interactive Message Passing”. AAAI, pp: 4327-4336, 2022. (CCF - A类会议)
-9.	Liang Yang, **Chuan Wang(通讯作者)**, Junhua Gu, Xiaochun Cao, Bingxin Niu, “Why Do Attributes Propagate in Graph Convolutional Neural Networks?” AAAI, pp: 4590-4598, 2021. (CCF - A类会议)
+- Jiarui Yang, **Chuan Wang(通讯作者)**, Liang Yang, Yuchen Jiang, Angelia Cao, Adaptive Feature Learning for Unbiased Scene Graph Generation, IEEE Transactions on Image Processing, 2020 (CCF-A类期刊)
+- Jiaming Zhuo, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, **Chuan Wang(通讯作者)**, Zhen Wang, Xiaochun Cao, Liang Yang, Improving Graph Contrastive Learning via Adaptive Positive Sampling, CVPR 2024 (CCF-A类会议）
+-	Jiarui Yang, **Chuan Wang(通讯作者)**, Zeming Liu, Jiahong Wu, Dongsheng Wang, Liang Yang, Xiaochun Cao, Focusing on Flexible Masks: A Novel Framework for Panoptic Scene Graph Generation with Relation Constraints, ACM MultiMedia, 2023. (CCF - A类会议)
+-	Yukun Zhang, **Chuan Wang(通讯作者)**, Sanyi Zhang, Xiaochun Cao, A Database for Multi-Modal Short Video Quality Assessment, IEEE ICASSP, 2023. (CCF - B类会议，Oral)
+-	Yuhan Chen, Yihong Luo, Jing Tang, Liang Yang, Siya Qiu, **Chuan Wang(通讯作者)**, Xiaochun Cao: LSGNN, “Towards General Graph Neural Network in Node Classification by Local Similarity”, IJCAI, 2023. (CCF - A类会议) (CCF - A类会议)
+-	Jiaming Zhuo, Can Cui, Kun Fu, Bingxin Niu, Dongxiao He, Yuanfang Guo, Zhen Wang, **Chuan Wang(通讯作者)**, Xiaochun Cao, Liang Yang, “Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs”, ACM Multimedia, 2023. (CCF - A类会议)
+-	Liang Yang, Cheng Chen, Weixun Li, Bingxin Niu, Junhua Gu, **Chuan Wang(通讯作者)**, Dongxiao He, Yuanfang Guo, Xiaochun Cao, “Self-Supervised Graph Neural Networks via Diverse and Interactive Message Passing”. AAAI, pp: 4327-4336, 2022. (CCF - A类会议)
+-	Liang Yang, **Chuan Wang(通讯作者)**, Junhua Gu, Xiaochun Cao, Bingxin Niu, “Why Do Attributes Propagate in Graph Convolutional Neural Networks?” AAAI, pp: 4590-4598, 2021. (CCF - A类会议)
+-	**Chuan Wang**, Huazhu Fu, Liang Yang, Xiaochun Cao. Text Co-Detection in Multi-View Scene. IEEE Transactions on Image Processing, 2020 (CCF-A类期刊)
+-	**Chuan Wang**, Hua Zhang, Liang Yang, Xiaochun Cao, Hongkai Xiong. Multiple Semantic Matching on Augmented N-Partite Graph for Object Co-Segmentation. IEEE Transactions on Image Processing, 2017 (CCF-A类期刊)
+-	**Chuan Wang**, Hua Zhang, Liang Yang ,Si Liu, Xiaochun Cao. Deep People Counting in Extremely Dense Crowds. ACM Multimedia, 2015（CCF-A类会议）
 
-Competitions
+
+**Competitions**
 ------
 1. 粤港澳大湾区（黄埔）国际算法算例大赛“看图说话”，三等奖。
 
 Service and Activities
 ------
-**Program Committee Member**
-  - CVPR / ICCV / AAAI / IJCAI / NeurIPS /......
+**Reviewers & Program Committee Member**
+  - TPAMI/TIP/TMM/CVPR/ICCV/ACM MM/AAAI/IJCAI/NeurIPS/ICML...
 
-**Reviewers**
-- TIP / TMM / TCSVT......
+**Area Chair**
+- ICML 2024
 
