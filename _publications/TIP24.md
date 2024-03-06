@@ -1,12 +1,12 @@
 ---
-title: "Adaptive Feature Learning for Unbiased Scene Graph Generation"
+title: "Adaptive Feature Learning for Unbiased Scene Graph Generation" [PDF]{http://chuanwang-cv.github.io/files/tip2024.pdf}
 collection: publications
 permalink: /publication/TIP24
 excerpt: "In this project, we provide an effective and general solution, termed AMP-BiC, from the view of feature learning for complex scene graph understanding. AMP-BiC simultaneously achieves both
 the discriminated information propagation and aggregation during message passing and the de-confusion and de-bias during training.<br/><img src='/images/tip24framework.png' width='800' height='200' align=center>"
 date: 2024-03-01
 venue: 'IEEE TIP'
-paperurl: 'http://academicpages.github.io/files/tip2024.pdf'
+paperurl: 'http://chuanwang-cv.github.io/files/tip2024.pdf'
 #citation: 'Liang Yang, Cheng Chen, Weixun Li, Bingxin Niu, Junhua Gu,, Chuan Wang, Dongxiao He, Yuanfang Guo, Xiaochun Cao. Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing. AAAI-22.'
 ---
 
@@ -23,7 +23,7 @@ paperurl: 'http://academicpages.github.io/files/tip2024.pdf'
   </table>
 </html>
 
-[Download paper here](http://academicpages.github.io/files/tip2024.pdf)
+[Download paper here](http://chuanwang-cv.github.io/files/tip2024.pdf)
 
 
 
