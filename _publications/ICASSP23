@@ -1,0 +1,14 @@
+---
+title: "A DATABASE FOR MULTI-MODAL SHORT VIDEO QUALITY ASSESSMENT [ [PDF] ](http://chuanwang-cv.github.io/files/ICASSP23.pdf)"
+collection: publications
+permalink: /publication/ICASSP23
+excerpt: "The short video has gained increasing attention in information sharing and commercial promotions due to the fast development of social platforms. Accompanying, it introduces great requirements for assessing the quality of short videos for efficient information acquirement and propagation. However, existing video quality assessment researches focus on assessing video content with five rating scores, limiting the assessment to a one-dimension and simplified criterion. In this paper, we establish a novel database dubbed MMSVD-Douyin for assessing multi-modal short video quality under consideration of three evaluation criteria. It includes 4,684 short videos, three kinds of modalities, six kinds of data formats, and three assessment criteria. To conduct the short video quality assessment, we set up an all-around multi-modal short video quality assessment benchmark (MulSVQA) that dynamically fuses representations from three modalities and produces numbers of ”likes”, ”shares” and ”comments” of short videos.<br/><img src='/images/ICASSP23framework.png' width='800' height='200' align=center>"
+date: 2023-06-01
+venue: 'ICASSP'
+paperurl: 'http://chuanwang-cv.github.io/files/ICASSP23.pdf'
+
+---
+
+
+
+
