@@ -29,12 +29,12 @@ Office: shucun Road, 1E-322, Haidian Dist., Beijing, China
     
     
 <table><tr><td bgcolor=SkyBlue>
-- Three papers were accepted by ACM MM 2023
+- One paper was accepted by IEEE TIP 2024
 </td></tr>
 <tr><td bgcolor=SkyBlue>
-- One paper was accepted by NeurIPS 2023
+- One paper was accepted by CVPR 2024
 </td></tr><tr><td bgcolor=SkyBlue>
-- One paper was accepted by IJCAI 2023</td></tr>
+- Three papers were accepted by ACM MM 2023 </td></tr>
 </table>
 
 Selected Works
