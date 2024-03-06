@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/TIP2024
 excerpt: "In this project, we provide an effective and general solution, termed AMP-BiC, from the view of feature learning for complex scene graph understanding. AMP-BiC simultaneously achieves both
 the discriminated information propagation and aggregation during message passing and the de-confusion and de-bias during training.<br/><img src='/images/tip24result.png' width='800' height='200' align=center>"
-date: 2024-02
+date: 2024-03-01
 venue: 'IEEE TIP'
 paperurl: 'http://academicpages.github.io/files/tip2024.pdf'
 #citation: 'Liang Yang, Cheng Chen, Weixun Li, Bingxin Niu, Junhua Gu,, Chuan Wang, Dongxiao He, Yuanfang Guo, Xiaochun Cao. Self-supervised Graph Neural Networks via Diverse and Interactive Message Passing. AAAI-22.'
