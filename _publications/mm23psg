@@ -5,23 +5,10 @@ permalink: /publication/MM23
 excerpt: "Panoptic Scene Graph Generation (PSG) presents pixel-wise instance detection and localization, leading to comprehensive and precise scene graphs. To alleviate insufficient training caused by incomplete segmentation and proposal extraction, we construct a novel twostage framework for the PSG problem. In the training phase, we design a proposal matching strategy, which replaces deterministic segmentation results with proposals extracted from the off-theshelf panoptic head for label alignment, thereby ensuring the allmatching of training samples. In the inference phase, we present an innovative concept of employing relation predictions to constrain segmentation and design a relation-constrained segmentation algorithm. The algorithm recovers more valid instances and predicts more complete scene graphs by reconstructing the process of generating segmentation results from proposals using predicted relation results.<br/><img src='/images/mm23framework.png' width='800' height='200' align=center>"
 date: 2023-10-28
 venue: 'ACM MM'
-[PDF](http://academicpages.github.io/files/mm2023.pdf)
-paperurl: 'http://academicpages.github.io/files/mm2023.pdf'
+[PDF](http://chuanwang-cv.github.io/files/mm2023.pdf)
+paperurl: 'http://chuanwang-cv.github.io/files/mm2023.pdf'
 ---
 
-<html>
-  <table width="80%" style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td  width="50%" style="text-align:justify; text-justify:distribute-all-lines; text-align-last:justify">
-       Scene Graph Generation (SGG) aims to detect all objects and identify their pairwise relationships in the scene. Recently, tremendous progress has been made in exploring better context relationship representations. Previous work mainly focuses on contextual information aggregation and uses de-biasing strategies on samples to eliminate the preference for head predicates. However, there remain challenges caused by indeterminate feature training. Overlooking the label confusion problem in feature training easily results in a messy feature distribution among the confused categories, thereby affecting the prediction of predicates. To alleviate the aforementioned problem, in this paper, we focus on enhancing predicate representation learning. 
-      </td>
-      <td width="30%">
-        <img src='/images/tip24.png' width="300" height = "200" align=center>
-      </td>
-    </tr>
-  </table>
-  [Download paper here](http://academicpages.github.io/files/mm2023.pdf)
-</html>
 
 
 
