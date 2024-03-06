@@ -10,11 +10,7 @@ redirect_from:
 
 I am a young associate professor at the Institute of Information Engineering, and the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include scene understanding, 2D/3D Scene Graph Generation, and AI Security.
 
-#[Google Scholar](https://scholar.google.com/citations?user=TJ35fY4AAAAJ&hl=en)   [DBLP](https://dblp.org/pid/68/363-2.html)
 
-
-#Email: wangchuan AT iie DOT ac DOT cn <br>
-#Office: shucun Road, 1E-322, Haidian Dist., Beijing, China
 
 ------
 
