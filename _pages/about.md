@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a young associate professor at the Institute of Information Engineering, and the Chinese Academy of Sciences. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include scene understanding, 2D/3D Scene Graph Generation, and AI Security.
+I am an associate professor at the school of Computer Science and Technology, Beijing JiaoTong University. I received my Ph.D. degree from the Institute of Information Engineering, the Chinese Academy of Sciences in 2020, supervised by Prof. Xiaochun Cao. My research interests include scene understanding, 2D/3D Scene Graph Generation, and AI Security.
 
 
 
 ------
 
-**<font color=red>NEW</font> <font color=MediumBlue>团队长期开放实习生申请，欢迎感兴趣的同学通过邮件与我联系，邮件包括但不限于：1）个人简历，2）英语六级成绩，3）专业相关实践经验；包括数学、编程等。如自学过机器学习、深度学习书籍或在线课程，阅读过相关英文论文，请一并附上情况介绍。欢迎加入中科院信工所多媒体智能安全团队！</font>**
+**<font color=red>NEW</font> <font color=MediumBlue>团队长期开放实习生申请，欢迎感兴趣的同学通过邮件与我联系，邮件包括但不限于：1）个人简历，2）英语六级成绩，3）专业相关实践经验；包括数学、编程等。如自学过机器学习、深度学习书籍或在线课程，阅读过相关英文论文，请一并附上情况介绍。欢迎加入北京交通大学计算机学院！</font>**
 
 
 
